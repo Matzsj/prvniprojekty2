@@ -38,13 +38,7 @@
             {
                 Console.WriteLine("Vyhrál si");
             }
-
-
-
-
-
-
-
+                
             }
     }
 }
